@@ -1,3 +1,4 @@
+[YOLOやSSDより速いと噂のM2Detを試してみた](https://qiita.com/BIG_LARGE_STONE/items/c7f4c9ad88488af13344)
 # M2Det
 Codebase for AAAI2019 "M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network" [[Paper link]](https://qijiezhao.github.io/imgs/m2det.pdf)
 
